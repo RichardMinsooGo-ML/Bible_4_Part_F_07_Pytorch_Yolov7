@@ -1,10 +1,10 @@
 # Engilish
-*  **Theory** : [https://wikidocs.net/167699](https://wikidocs.net/226339) <br>
-*  **Implementation** : [https://wikidocs.net/167693](https://wikidocs.net/226340)
+*  **Theory** : [https://wikidocs.net/226339](https://wikidocs.net/226339) <br>
+*  **Implementation** : [https://wikidocs.net/226340](https://wikidocs.net/226340)
 
 # 한글
-*  **Theory** : [https://wikidocs.net/187967](https://wikidocs.net/225897) <br>
-*  **Implementation** : [https://wikidocs.net/167666](https://wikidocs.net/226038)
+*  **Theory** : [https://wikidocs.net/225897](https://wikidocs.net/225897) <br>
+*  **Implementation** : [https://wikidocs.net/226038](https://wikidocs.net/226038)
 
 This repository is folked from [https://github.com/yjh0410/RT-ODLab](https://github.com/yjh0410/RT-ODLab).
 At this repository, simplification and explanation and will be tested at Colab Environment.
